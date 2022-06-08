@@ -15,8 +15,8 @@ SR = 16000
 
 BG_PATH = '/home/nvidia/Desktop/Dataset/bg'
 KW_PATH = '/home/nvidia/Desktop/엘레베이터용/train'
-NEG_PATH = '/home/nvidia/Desktop/Dataset/202109/neg'
-SNEG_PATH = '/home/nvidia/Desktop/Dataset/202109/sneg'
+NEG_PATH = '/home/nvidia/Desktop/Dataset/neg'
+SNEG_PATH = '/home/nvidia/Desktop/Dataset/sneg'
 TEST_PATH = '/home/nvidia/Desktop/엘레베이터용/test'
 
 KW = sorted(os.listdir(KW_PATH))
